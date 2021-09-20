@@ -1,5 +1,9 @@
 <div>
-<h1> João Pedro Dias Caparroz | 🇧🇷  </h1>
+  
+<h1>
+<p align="center"> João Pedro Dias Caparroz | 🇧🇷 
+</p>
+</h1>
 </div>
 
 <div>
