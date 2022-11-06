@@ -8,7 +8,7 @@
 
 <div>
   
-- 💼 Atualmente trabalhando na empresa Drica's Doces & Salgados || **Administração**
+- 💼 Trabalhando como Trainee na Netpartners (PA Analyst) ||
 
 - 📚 Estudante de TI na Universidade Anhembi Morumbi || **Sistemas de Informação**
 
