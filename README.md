@@ -8,7 +8,7 @@
 
 <div>
   
-- 💼 Trabalhando como Trainee na Netpartners (PA Analyst) ||
+- 💼 Analista na Netpartners (PAW Analyst) ||
 
 - 📚 Estudante de TI na Universidade Anhembi Morumbi || **Sistemas de Informação**
 
