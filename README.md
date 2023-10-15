@@ -8,9 +8,9 @@
 
 <div>
   
-- 💼 Analista na Netpartners (PAW Analyst) ||
+- 💼 Analista na Netpartners (PAW Analyst)
 
-- 📚 Estudante de TI na Universidade Anhembi Morumbi || **Sistemas de Informação**
+- 📚 Estudante de TI na Universidade Anhembi Morumbi (Sistemas de Informação)
 
 </div>
 
