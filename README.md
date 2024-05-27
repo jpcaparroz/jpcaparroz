@@ -5,10 +5,9 @@
   </h1>
 </div>
 
-<div>
-  - 💼 Analyst | Developer in Netpartners (TM1 Analyst)
-  - 📚 SI - UAM
-</div>
+* 💼 Analyst | Developer in Netpartners (TM1)
+* 📚 SI - UAM
+* 👨🏻‍💻 TM1 | Python | VSCode | Postman
 
 <div>
   <a href="https://github.com/jpcaparroz">
