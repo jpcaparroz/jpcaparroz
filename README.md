@@ -1,9 +1,4 @@
-<div>
-  <h1>
-    <p align="center"> João Pedro Dias Caparroz | 🇧🇷 
-    </p>
-  </h1>
-</div>
+![readme_cover](https://github.com/user-attachments/assets/84361473-a568-4188-a199-e2e2df82616d)
 
 * 💼 Analyst | Developer in Netpartners (TM1)
 * 📚 SI - UAM
