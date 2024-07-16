@@ -1,9 +1,31 @@
-![readme_cover](https://github.com/user-attachments/assets/84361473-a568-4188-a199-e2e2df82616d)
+![cover-frame-v1](https://github.com/user-attachments/assets/88aa777f-018e-4474-ade1-a29bea4f6903)
+---
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b> Analyst </b>
+      </td>
+      <td align="center">
+        <b> Developer </b>
+      </td>
+    </tr>
+  </table>
 
-* 💼 Analyst | Developer in Netpartners (TM1)
-* 📚 SI - UAM
-* 👨🏻‍💻 TM1 | Python | VSCode | Postman
+  <br>
+  
+  <img height="35em" alt="Python Icon" src="https://github.com/user-attachments/assets/c24246f3-44fa-4e26-885a-31a7da21393d">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="35em" alt="Git Icon" src="https://github.com/user-attachments/assets/a7323d3e-df51-4d8f-b78a-a85ffe78dbbf">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="35em" alt="Docker Icon" src="https://github.com/user-attachments/assets/d8547a85-238b-4b5a-92ab-d1ca00477479">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="35em" alt="Postman Icon" src="https://github.com/user-attachments/assets/9c9161b0-8e23-4962-bf50-1fcc2ba5abcd">
+  
+</div>
 
+<br>
+  
 <div>
   <a href="https://github.com/jpcaparroz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcaparroz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
