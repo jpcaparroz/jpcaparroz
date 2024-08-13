@@ -1,5 +1,17 @@
-![cover-frame-v1](https://github.com/user-attachments/assets/88aa777f-018e-4474-ade1-a29bea4f6903)
+![cover-frame-v1](https://github.com/user-attachments/assets/8817b523-a7e8-46c1-8bf6-1c5c88cc0181)
 ---
+
+
+<p float="left">
+  <img height="35em" alt="Python Icon" src="https://github.com/user-attachments/assets/c24246f3-44fa-4e26-885a-31a7da21393d">
+  <img src="https://github.com/user-attachments/assets/67314e08-bd81-49ce-8e43-08771e3cb279" width="700" />
+</p>
+
+
+######       
+    pip install jpcaparroz
+  
+
 <div align="center">
   <table>
     <tr>
@@ -21,7 +33,7 @@
   <img height="35em" alt="Docker Icon" src="https://github.com/user-attachments/assets/d8547a85-238b-4b5a-92ab-d1ca00477479">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="35em" alt="Postman Icon" src="https://github.com/user-attachments/assets/9c9161b0-8e23-4962-bf50-1fcc2ba5abcd">
-  
+
 </div>
 
 <br>
